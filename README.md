@@ -1,1 +1,1 @@
-# The-theory-of-programming-languages
+# The theory of programming languages
